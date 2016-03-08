@@ -1,0 +1,32 @@
+{
+  "name": "MPMenu",
+  "version": "0.1.0",
+  "homepage": "https://github.com/mplunkett5/MPMenu",
+  "authors": [
+    "Mark Plunkett <mark@sozodesign.co.uk>"
+  ],
+  "description": "A simple mobile menu.",
+  "main": "dist/mpmenu.min.js",
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "ignore": [
+  	"src",
+    "test",
+    "libs",
+  	"**/*.txt",
+  	".editorconfig",
+  	".travis.yml",
+  	".bowerrc",
+  	".jshintrc",
+    ".gitignore",
+  	"index.html",
+    "test.html",
+  	"CONTRIBUTING.md",
+    "Gruntfile.js"
+  ],
+  "dependancies": {
+    "jquery": "~1.7.1"
+  }
+}
