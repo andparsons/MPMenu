@@ -1,0 +1,19 @@
+{
+  "name": "mpmenu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/mpmenu.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andparsons/MPMenu.git"
+  },
+  "author": "Andy Parsons <andrew@sozodesign.co.uk> (https://www.sozodesign.co.uk/)",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "bugs": {
+    "url": "https://github.com/andparsons/MPMenu/issues"
+  },
+  "homepage": "https://github.com/andparsons/MPMenu#readme"
+}
